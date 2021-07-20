@@ -41,12 +41,11 @@ a,li {
     color:black;
 
 }
-.float:hover {
-    text-decoration: none;
-}
+
 .but {
     text-decoration: none;
     color:grey;
+    z-index:600;
 }
 .but:hover {
     text-decoration: none;
